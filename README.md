@@ -40,10 +40,10 @@ A **Telecom Management System** demonstrating:
   <summary>Diagrams (Click to expand)</summary>
 
 ### ERD Diagram
-![ERD Diagram](./01_ERD/telecom_ERD.jpg)
+![ERD Diagram](./Diagrams/Project%20ERD%202%20(7).jpg)
 
 ### Mapping Diagram
-![Mapping](./02_Logical_Physical_Schema/Telecom_Mapping.png)
+![Mapping](./Diagrams/Telecom_Mapping.drawio.png)
 
 </details>
 
